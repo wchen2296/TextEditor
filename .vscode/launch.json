@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/weeyumc/Downloads/TEXT EDITOR IN C++",
+      "program": "/Users/weeyumc/Downloads/TEXT EDITOR IN C++/build/Debug/outDebug"
+    }
+  ]
+}
